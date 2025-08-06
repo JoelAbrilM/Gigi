@@ -3,16 +3,16 @@ const letterElement = document.getElementById("letter");
 const message = `
 ¡Hola Gigi! 💙
 
-Este año es súper especial porque estás terminando una gran etapa, ¡te gradúas de sexto grado! 🎓✨
+Este año es súper especial porque estás terminando una gran etapa de su vida, ¡te gradúas de sexto grado! 🎓✨
 
-Quiero decirte que, aunque no nos veamos mucho, estoy MUY orgulloso de vos. Sos una crack total y sé que la vida tiene cosas enormes y hermosas esperándote. 🌈💫
+Quiero decirte que, aunque no nos veamos mucho, estoy MUY orgulloso de usted. Eres una crack y sé que la vida tiene cosas enormes y muy chivas esperándote. 🌈💫
 
-Nunca dejés de soñar en grande, de reír como lo hacés, y de ser tan genial como ya sos.
+Nunca dejés de soñar en grande.
 
 ¡Te deseo lo mejor en esta nueva aventura! 🚀💙
 
 Con cariño,
-El novio de tu hermana 😄
+Tuti 😄
 `;
 
 let index = 0;
